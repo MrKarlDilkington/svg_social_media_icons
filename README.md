@@ -12,25 +12,6 @@
 - Internet Explorer 8 and up
 - Android Browser 3 and up
 
-**Icon List:**
-Behance
-deviantART
-Dribbble
-E-mail
-Facebook
-Flickr
-Github
-Google+
-Instagram
-iTunes
-Linkedin
-Pinterest
-Skype
-SoundCloud
-Spotify
-Tumblr
-Twitter
-Vimeo
-Youtube
+**Icon List:** Behance, deviantART, Dribbble, E-mail, Facebook, Flickr, Github, Google+, Instagram, iTunes, Linkedin, Pinterest, Skype, SoundCloud, Spotify, Tumblr, Twitter, Vimeo, Youtube
 
 Bug fixes, improvements, useful new features, and additional translations welcomed.
